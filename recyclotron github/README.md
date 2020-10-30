@@ -1,6 +1,6 @@
 # Recyclotron
 
-Ce projet vise à améliorer le tri des déchets. On s'est tous déjà posé la question : "Mais dans quelle poubelle va ce déchet ?". Que ce soit les bouteilles en plastique, ou les boites d'oeufs en carton, chaque déchet doit trouver sa place pour être ou non recycler. Mais encore faut-il savoir dans quel poubelle la mettre afin d'éviter le "recycling contamination"?
+Ce projet vise à améliorer le tri des déchets. On s'est tous déjà posé la question : "Mais dans quelle poubelle va ce déchet ?". Que ce soit les bouteilles en plastique, ou les boites d'oeufs en carton, chaque déchet doit trouver sa place pour être ou non recycler. Mais encore faut-il savoir dans quel poubelle la mettre afin d'éviter le phénomène de "recycling contamination"?
 
 L'application développée indique, pour chaque déchet, la voie de recyclage appropriée, grâce à la reconnaissance visuelle.
 Prenez une photo du déchet que vous voulez trier et cette application vous dira dans quelle poubelle il va. 
@@ -11,7 +11,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prérequis
 
-What things you need to install the software and how to install them
 Les modules à installer pour exécuter notre programme :
 -keras
 -os
